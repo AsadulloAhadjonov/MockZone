@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54644762949",
+    "project_id": "flutter1-foods",
+    "storage_bucket": "flutter1-foods.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54644762949:android:dfe1479f29a2df16cff62c",
+        "android_client_info": {
+          "package_name": "com.example.mock_uz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54644762949-aq7s4m0f93gc48nglk1p8mc2jt98fejk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDymrYp2MREYbnqgSapTPsK-fbTAaUjm-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54644762949-aq7s4m0f93gc48nglk1p8mc2jt98fejk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
